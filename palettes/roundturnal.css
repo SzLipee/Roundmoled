@@ -5,9 +5,9 @@
     --dark-primary: rgb(30, 30, 40);
     --dark-secondary: rgb(30, 30, 42);
     --dark-secondary-alt: rgb(39, 37, 55);
-    --dark-bright: rgb(12, 12, 25);
-    --roundmoled-background: rgb(17, 17, 19);
-    --popout-activeborders: rgb(58, 58, 101);
+    --dark-bright: rgb(115, 1, 187);
+    --roundmoled-background: rgb(115, 1, 187);
+    --popout-activeborders: rgb(115, 1, 187);
 }
 
 /* Individual stuff related to the theme itself */
